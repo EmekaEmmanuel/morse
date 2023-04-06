@@ -53,8 +53,8 @@ In order to run this project you need installed Ruby on your local machine.
 Clone this repository to your local machine:
 
 ```sh
-  git clone https://github.com/anthonymr/morse-code.git
-  cd morse-code
+  git clone https://github.com/EmekaEmmanuel/morse.git
+  cd morse
 
 ```
 
@@ -66,21 +66,20 @@ To run the project, execute the following command in terminal:
     ruby main.rb
 ```
 
-<!-- AUTHORS -->
+## 👥 Author <a name="author"></a>
 
-## 👥 Authors <a name="authors"></a>
 
-👤 **zewdu erkyhun**
+👤 **Emeka Emmanuel Ugboaja**
 
-- GitHub: [zewdu444](https://github.com/zewdu444)
-- Twitter: [@zewdu444](https://twitter.com/zewdu444)
-- LinkedIn: [zewdu-anley](https://www.linkedin.com/in/zewdu-anley/)
+- GitHub: [EmekaEmmanuel](https://github.com/EmekaEmmanuel)
+- Twitter: [@emekaekeoha](https://twitter.com/emekaekeoha)
+- LinkedIn: [emeka-ugboaja](https://www.linkedin.com/in/emeka-ugboaja)
 
-👤 **Anthony Martin**
+👤 **Marko Kermichiev**
 
-- GitHub: [anthonymr](https://github.com/anthonymr)
-- Twitter: [@Anthony2Martin](https://twitter.com/Anthony2Martin)
-- LinkedIn: [anthony-martin](https://www.linkedin.com/in/anthony-martin-8820a3117/)
+ - Github: [@MarkoKermi](https://github.com/MarkoKermi) 
+ - Twitter: [@MarkKerm](https://twitter.com/MarkoKerm) 
+ - LinkedIn: [@omarko-kermichiev](https://www.linkedin.com/in/marko-kermichiev/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +97,7 @@ To run the project, execute the following command in terminal:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/anthonymr/morse-code/issues).
+Feel free to check the [issues page](https://github.com/EmekaEmmanuel/morse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
